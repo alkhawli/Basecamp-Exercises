@@ -13,3 +13,4 @@ uv.lock
 .vscode/
 .ipynb_checkpoints/
 *.DS_Store
+day2/01_evals/eval_results/
